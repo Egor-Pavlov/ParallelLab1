@@ -23,7 +23,7 @@ struct Thread
 
 double f(double x)
 {
-	//Sleep(1);//имитация сложных вычислений :D
+	Sleep(1);//имитация сложных вычислений :D
 	return 10-x;
 }
 
